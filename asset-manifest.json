@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Pixabay-API/static/css/main.cc76cdad.chunk.css",
+    "main.js": "/React-Pixabay-API/static/js/main.c7996c75.chunk.js",
+    "main.js.map": "/React-Pixabay-API/static/js/main.c7996c75.chunk.js.map",
+    "runtime-main.js": "/React-Pixabay-API/static/js/runtime-main.5f08f1ca.js",
+    "runtime-main.js.map": "/React-Pixabay-API/static/js/runtime-main.5f08f1ca.js.map",
+    "static/js/2.62042d28.chunk.js": "/React-Pixabay-API/static/js/2.62042d28.chunk.js",
+    "static/js/2.62042d28.chunk.js.map": "/React-Pixabay-API/static/js/2.62042d28.chunk.js.map",
+    "static/js/3.bf42aeff.chunk.js": "/React-Pixabay-API/static/js/3.bf42aeff.chunk.js",
+    "static/js/3.bf42aeff.chunk.js.map": "/React-Pixabay-API/static/js/3.bf42aeff.chunk.js.map",
+    "index.html": "/React-Pixabay-API/index.html",
+    "static/css/main.cc76cdad.chunk.css.map": "/React-Pixabay-API/static/css/main.cc76cdad.chunk.css.map",
+    "static/js/2.62042d28.chunk.js.LICENSE.txt": "/React-Pixabay-API/static/js/2.62042d28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f08f1ca.js",
+    "static/js/2.62042d28.chunk.js",
+    "static/css/main.cc76cdad.chunk.css",
+    "static/js/main.c7996c75.chunk.js"
+  ]
+}
